@@ -4,7 +4,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working at **Internpe**
+🔭 I’m currently working at **Kalam dream labs**
   
 🌱 I’m currently learning : machne learning & its frameworks
 
