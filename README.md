@@ -6,16 +6,16 @@
 # 💫About Me :
 🔭 I’m currently working at **Kalam dream labs**
   
-🌱 I’m currently learning : machne learning & its frameworks
+🌱 I’m currently learning : Data science( data analyst job role)
 
   👯 I’m looking to collaborate with like-minded individuals
 
-  💬 Ask me about _Python  , Machine Learning , Web-Development_
+  💬 Ask me about _Python  , Power bi  , Tableau , Sql , Excel_
 
   📫 How to reach me:  
-  Mail me at "shaikson7@gmail.com"
+  Mail me at "shaikson7@gmail.com" or "shajid7.analyst@gmail.com
   
-⚡ Fun fact: I love to eat while coding
+⚡ Fun fact: I love to listen music while desigining 
 
 
 ## 🌐Socials
